@@ -1,4 +1,4 @@
-# Awesome Marten
+# Awesome Marten [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 ![logo](https://github.com/martenframework/marten/raw/main/docs/static/img/hero.svg)
 
