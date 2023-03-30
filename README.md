@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/martenframework/marten/raw/main/docs/static/img/hero.svg)
 
-A curated and categorized list of awesome things related to the Marten web framework.
+A curated and categorized list of awesome things related to the [Marten web framework](https://martenframework.com).
 
 * [Marten shards](#marten-shards)
   * [Authentication](#authentication)
