@@ -9,7 +9,7 @@ A curated and categorized list of awesome things related to the [Marten web fram
   * [Emailing](#emailing)
   * [Sessions](#sessions)
 * [Resources](#resources)
-  * [Official resources](*official-resources)
+  * [Official resources](#official-resources)
   * [Blog posts and tutorials](#blog-posts-and-tutorials)
 * [Community](#community)
 
