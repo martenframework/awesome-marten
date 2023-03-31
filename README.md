@@ -8,7 +8,9 @@ A curated and categorized list of awesome things related to the [Marten web fram
   * [Authentication](#authentication)
   * [Emailing](#emailing)
   * [Sessions](#sessions)
-* [Blog posts and tutorials](#blog-posts-and-tutorials)
+* [Resources](#resources)
+  * [Official resources](*official-resources)
+  * [Blog posts and tutorials](#blog-posts-and-tutorials)
 * [Community](#community)
 
 ## Marten shards
@@ -28,7 +30,15 @@ A curated and categorized list of awesome things related to the [Marten web fram
 
 * [Marten DB Session Store](https://github.com/martenframework/marten-db-session-store) - A database session store for the Marten web framework
 
-## Blog posts and tutorials
+## Resources
+
+### Official resources
+
+* [Project website](https://martenframework.com/) - Official Marten website
+* [Documentation](https://martenframework.com/docs) - Official documentation for all Marten versions
+* [Blog tutorial](https://martenframework.com/docs/getting-started/tutorial) - Discover the main features of the framework by building a simple web application
+
+### Blog posts and tutorials
 
 * [The vision behind the Marten web framework](https://world.hey.com/morganaubert/the-vision-behind-the-marten-web-framework-907b3031)
 
