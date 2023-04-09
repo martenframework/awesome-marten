@@ -41,6 +41,7 @@ A curated and categorized list of awesome things related to the [Marten web fram
 ### Blog posts and tutorials
 
 * [The vision behind the Marten web framework](https://world.hey.com/morganaubert/the-vision-behind-the-marten-web-framework-907b3031)
+* [Background job processing with Marten and Mosquito](https://dev.to/ellmetha/background-job-processing-with-marten-and-mosquito-2i3o)
 
 ## Community
 
