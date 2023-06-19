@@ -6,6 +6,7 @@ A curated and categorized list of awesome things related to the [Marten web fram
 
 * [Marten shards](#marten-shards)
   * [Authentication](#authentication)
+  * [Caching](#caching)
   * [Emailing](#emailing)
   * [Sessions](#sessions)
 * [Resources](#resources)
@@ -19,6 +20,11 @@ A curated and categorized list of awesome things related to the [Marten web fram
 
 * [Marten Auth](https://github.com/martenframework/marten-auth) - An authentication system for the Marten web framework
 * [MultiAuth](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth authentication
+
+### Caching
+
+* [Marten Memcached Cache](https://github.com/martenframework/marten-memcached-cache) - A Memcached cache store for the Marten web framework
+* [Marten Redis Cache](https://github.com/martenframework/marten-redis-cache) - A Redis cache store for the Marten web framework
 
 ### Emailing
 
