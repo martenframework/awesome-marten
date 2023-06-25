@@ -35,6 +35,7 @@ A curated and categorized list of awesome things related to the [Marten web fram
 ### Sessions
 
 * [Marten DB Session](https://github.com/martenframework/marten-db-session) - A database session store for the Marten web framework
+* [Marten Redis Session](https://github.com/martenframework/marten-redis-session) - A Redis session store for the Marten web framework
 
 ## Resources
 
