@@ -1,6 +1,6 @@
 # Awesome Marten [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-![logo](https://github.com/martenframework/marten/raw/main/docs/static/img/hero.svg)
+![logo](https://raw.githubusercontent.com/martenframework/marten/main/docs/static/img/hero.png)
 
 A curated and categorized list of awesome things related to the [Marten web framework](https://martenframework.com).
 
