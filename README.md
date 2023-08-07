@@ -8,6 +8,7 @@ A curated and categorized list of awesome things related to the [Marten web fram
   * [Authentication](#authentication)
   * [Caching](#caching)
   * [Emailing](#emailing)
+  * [Internationalization](#internationalization)
   * [Sessions](#sessions)
 * [Resources](#resources)
   * [Official resources](#official-resources)
@@ -31,6 +32,10 @@ A curated and categorized list of awesome things related to the [Marten web fram
 * [Marten Mailgun Emailing](https://github.com/martenframework/marten-mailgun-emailing) - A Mailgun emailing backend for the Marten web framework
 * [Marten Sendgrid Emailing](https://github.com/martenframework/marten-sendgrid-emailing) - A Sendgrid emailing backend for the Marten web framework
 * [Marten SMTP Emailing](https://github.com/martenframework/marten-smtp-emailing) - An SMTP emailing backend for the Marten web framework
+
+### Internationalization
+
+* [Crystal I18n](https://github.com/crystal-i18n/i18n) - An internationalization library for Crystal.
 
 ### Sessions
 
