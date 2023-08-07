@@ -35,7 +35,7 @@ A curated and categorized list of awesome things related to the [Marten web fram
 
 ### Internationalization
 
-* [Crystal I18n](https://github.com/crystal-i18n/i18n) - An internationalization library for Crystal.
+* [Crystal I18n](https://github.com/crystal-i18n/i18n) - An internationalization library for Crystal
 
 ### Sessions
 
