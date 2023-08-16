@@ -8,6 +8,7 @@ A curated and categorized list of awesome things related to the [Marten web fram
   * [Authentication](#authentication)
   * [Caching](#caching)
   * [Emailing](#emailing)
+  * [Error Handling](#error-handling)
   * [Internationalization](#internationalization)
   * [Sessions](#sessions)
 * [Resources](#resources)
@@ -32,6 +33,10 @@ A curated and categorized list of awesome things related to the [Marten web fram
 * [Marten Mailgun Emailing](https://github.com/martenframework/marten-mailgun-emailing) - A Mailgun emailing backend for the Marten web framework
 * [Marten Sendgrid Emailing](https://github.com/martenframework/marten-sendgrid-emailing) - A Sendgrid emailing backend for the Marten web framework
 * [Marten SMTP Emailing](https://github.com/martenframework/marten-smtp-emailing) - An SMTP emailing backend for the Marten web framework
+
+### Error Handling
+
+* [Marten Raven Middleware](https://github.com/ellmetha/marten-raven-middleware) - A Raven.cr integration for the Marten web framework.
 
 ### Internationalization
 
