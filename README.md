@@ -11,6 +11,7 @@ A curated and categorized list of awesome things related to the [Marten web fram
   * [Error Handling](#error-handling)
   * [Internationalization](#internationalization)
   * [Sessions](#sessions)
+* [Built with Marten](#built-with-marten)
 * [Resources](#resources)
   * [Official resources](#official-resources)
   * [Blog posts and tutorials](#blog-posts-and-tutorials)
@@ -36,7 +37,7 @@ A curated and categorized list of awesome things related to the [Marten web fram
 
 ### Error Handling
 
-* [Marten Raven Middleware](https://github.com/ellmetha/marten-raven-middleware) - A Raven.cr integration for the Marten web framework.
+* [Marten Raven Middleware](https://github.com/ellmetha/marten-raven-middleware) - A Raven.cr integration for the Marten web framework
 
 ### Internationalization
 
@@ -47,11 +48,16 @@ A curated and categorized list of awesome things related to the [Marten web fram
 * [Marten DB Session](https://github.com/martenframework/marten-db-session) - A database session store for the Marten web framework
 * [Marten Redis Session](https://github.com/martenframework/marten-redis-session) - A Redis session store for the Marten web framework
 
+## Built with Marten
+
+* [Marten website](https://martenframework.com) - The official Marten website
+* [Marten RealWorld](https://github.com/martenframework/realworld) - A RealWorld application built with Marten
+
 ## Resources
 
 ### Official resources
 
-* [Project website](https://martenframework.com/) - Official Marten website
+* [Project website](https://martenframework.com) - Official Marten website
 * [Documentation](https://martenframework.com/docs) - Official documentation for all Marten versions
 * [Blog tutorial](https://martenframework.com/docs/getting-started/tutorial) - Discover the main features of the framework by building a simple web application
 
