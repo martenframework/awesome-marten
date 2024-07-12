@@ -48,6 +48,10 @@ A curated and categorized list of awesome things related to the [Marten web fram
 * [Marten DB Session](https://github.com/martenframework/marten-db-session) - A database session store for the Marten web framework
 * [Marten Redis Session](https://github.com/martenframework/marten-redis-session) - A Redis session store for the Marten web framework
 
+### Utility
+
+* [Marten Turbo](https://github.com/treagod/marten-turbo) - A library to help handle Turbo applications
+
 ## Built with Marten
 
 * [Marten website](https://martenframework.com) - The official Marten website
