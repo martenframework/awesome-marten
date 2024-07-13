@@ -75,4 +75,5 @@ A curated and categorized list of awesome things related to the [Marten web fram
 ## Community
 
 * [Discord Server](https://martenframework.com/chat) - Official Marten Discord community
-* [Twitter](https://twitter.com/martenframework) - Official announcements related to releases, security fixes, etc
+* [X](https://x.com/martenframework) - Official announcements related to releases, security fixes, etc
+* [Mastodon](https://indieweb.social/@martenframework) - Official announcements related to releases, security fixes, etc
