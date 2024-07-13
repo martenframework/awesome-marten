@@ -9,6 +9,7 @@ A curated and categorized list of awesome things related to the [Marten web fram
   * [Caching](#caching)
   * [Emailing](#emailing)
   * [Error Handling](#error-handling)
+  * [Front-end Integration](#front-end-integration)
   * [Internationalization](#internationalization)
   * [Sessions](#sessions)
 * [Built with Marten](#built-with-marten)
@@ -39,6 +40,10 @@ A curated and categorized list of awesome things related to the [Marten web fram
 
 * [Marten Raven Middleware](https://github.com/ellmetha/marten-raven-middleware) - A Raven.cr integration for the Marten web framework
 
+### Front-end Integration
+
+* [Marten Turbo](https://github.com/treagod/marten-turbo) - An integration of Hotwire Turbo with Marten
+
 ### Internationalization
 
 * [Crystal I18n](https://github.com/crystal-i18n/i18n) - An internationalization library for Crystal
@@ -47,10 +52,6 @@ A curated and categorized list of awesome things related to the [Marten web fram
 
 * [Marten DB Session](https://github.com/martenframework/marten-db-session) - A database session store for the Marten web framework
 * [Marten Redis Session](https://github.com/martenframework/marten-redis-session) - A Redis session store for the Marten web framework
-
-### Utility
-
-* [Marten Turbo](https://github.com/treagod/marten-turbo) - A library to help handle Turbo applications
 
 ## Built with Marten
 
