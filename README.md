@@ -9,6 +9,7 @@ A curated and categorized list of awesome things related to the [Marten web fram
   * [Caching](#caching)
   * [Emailing](#emailing)
   * [Error Handling](#error-handling)
+  * [File Storages](#file-storages)
   * [Front-end Integration](#front-end-integration)
   * [Internationalization](#internationalization)
   * [Sessions](#sessions)
@@ -39,6 +40,10 @@ A curated and categorized list of awesome things related to the [Marten web fram
 ### Error Handling
 
 * [Marten Raven Middleware](https://github.com/ellmetha/marten-raven-middleware) - A Raven.cr integration for the Marten web framework
+
+### File Storages
+
+* [Marten S3](https://github.com/martenframework/marten-s3) - An S3 file storage for the Marten web framework.
 
 ### Front-end Integration
 
