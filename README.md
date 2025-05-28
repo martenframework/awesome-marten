@@ -45,6 +45,10 @@ A curated and categorized list of awesome things related to the [Marten web fram
 
 * [Marten S3](https://github.com/martenframework/marten-s3) - An S3 file storage for the Marten web framework.
 
+### Financial 
+
+* [Marten Money](https://github.com/treagod/marten-money) - Integration of Crystal Money for the Marten web framework
+
 ### Front-end Integration
 
 * [Marten Turbo](https://github.com/treagod/marten-turbo) - An integration of Hotwire Turbo with Marten
