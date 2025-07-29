@@ -82,6 +82,8 @@ A curated and categorized list of awesome things related to the [Marten web fram
 * [Digging into Marten query sets](https://dev.to/ellmetha/digging-into-marten-query-sets-3g5l)
 * [Background job processing with Marten and Mosquito](https://dev.to/ellmetha/background-job-processing-with-marten-and-mosquito-2i3o)
 * [Make Marten work with minitest.cr](https://dev.to/miry/make-marten-web-framework-work-with-minitestcr-49kd)
+* [Instrumenting a Marten app with OpenTelemetry](https://dev.to/miry/instrumenting-a-marten-app-with-opentelemetry-4f21)
+* [Applying the presenter pattern in Marten](https://dev.to/treagod/applying-the-presenter-pattern-in-marten-37cf)
 
 ## Community
 
