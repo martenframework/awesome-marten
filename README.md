@@ -35,6 +35,7 @@ A curated and categorized list of awesome things related to the [Marten web fram
 ### Emailing
 
 * [Marten Mailgun Emailing](https://github.com/martenframework/marten-mailgun-emailing) - A Mailgun emailing backend for the Marten web framework
+* [Marten Preview Emailing](https://github.com/ellmetha/marten-preview-emailing) - A Marten emailing backend that lets you preview emails in the browser
 * [Marten Sendgrid Emailing](https://github.com/martenframework/marten-sendgrid-emailing) - A Sendgrid emailing backend for the Marten web framework
 * [Marten SMTP Emailing](https://github.com/martenframework/marten-smtp-emailing) - An SMTP emailing backend for the Marten web framework
 
