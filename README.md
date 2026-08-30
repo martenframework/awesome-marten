@@ -6,6 +6,7 @@ A curated and categorized list of awesome things related to the [Marten web fram
 
 * [Marten shards](#marten-shards)
   * [Authentication](#authentication)
+  * [Calendars & Scheduling](#calendars--scheduling)
   * [Caching](#caching)
   * [Emailing](#emailing)
   * [Error Handling](#error-handling)
@@ -26,6 +27,11 @@ A curated and categorized list of awesome things related to the [Marten web fram
 
 * [Marten Auth](https://github.com/martenframework/marten-auth) - An authentication system for the Marten web framework
 * [MultiAuth](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth authentication
+
+
+### Calendars & Scheduling
+
+* [Marten Calendar](https://github.com/treagod/marten-calendar) - Calendar and scheduling foundation
 
 ### Caching
 
